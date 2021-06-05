@@ -48,5 +48,9 @@ body {
     border: 2px solid white;
     padding: 10px;
 }
-
+.right{
+    float: right;
+    background-color: teal;
+    width: 50%;
+}
 
