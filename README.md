@@ -3,6 +3,7 @@
 #### By **Daisy Chitalu**
 ## Description
 It's a portfolio about myself.
+Hosted URL: https://daisychitalu.github.io/about-my-self/
 ## Setup/Installation Requirements
 To run the application in your terminal:
 * Clone Repository on Local Machine 
